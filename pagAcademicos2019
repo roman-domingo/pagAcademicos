@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Parcel Sandbox</title>
+	<meta charset="UTF-8" />
+	
+</head>
+
+<body>
+
+		<div class="grid" style="display:grid;grid-template-columns:30% 70%;overflow:hidden;">
+			<div class="element" style="overflow:hidden">
+				[{"fid":"611","view_mode":"default","fields":{"format":"default","alignment":"","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"link_text":null,"type":"media","field_deltas":{"3":{"format":"default","alignment":"","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false}},"attributes":{"height":5184,"width":3456,"style":" height:=","class":"media-element file-default","data-delta":"3"}}]]
+			</div>
+			<div class="element" style="overflow:hidden">
+				<p>Rosa Isabel Basaure Cabero,&nbsp;<span style="font-size: 0.923em;">Profesora asistente</span></p>
+				<p><span style="font-size: 0.923em;">rosita.basaure@usach.cl</span></p>
+				<p>Rosa Basaure es Traductora, Licenciada en Lingüística aplicada a la Traducción mención inglés y japonés, diplomada en Estudios Internacionales de Asia Pacífico y de Enseñanza para la Educación Superior. Magíster en Estudios Internacionales y Doctora en Estudios Americanos, mención Relaciones Internacionales. En la carrera de Licenciatura en Lingüística aplicada a la Traducción mención inglés – japonés e inglés – portugués y dicta los cursos de Traducción jurídica, Principios y Fundamentos de la Traducción y Traducción inversa español-inglés. Sus trabajos de investigación tratan sobre la traducción como herramienta de poder y el rol de la traducción desde la perspectiva de las relaciones internacionales.</p>
+				<p>En la actualidad es Jefa de carrera, miembro permanente de la delegación latinoamericana del Foro Académico de Alto Nivel China-América Latina de la Academia China de Ciencias Sociales y socia miembro del comité de Plan estratégico del colegio de Traductores e intérpretes de Chile (COTICH).</p>
+				<p><a href="https://www.researchgate.net/profile/Rosa_Basaure/info" style="font-size: 0.923em;">https://www.researchgate.net/profile/Rosa_Basaure/info</a></p>
+				<p><a href="https://orcid.org/0000-0003-2501-9456">https://orcid.org/0000-0003-2501-9456</a></p>
+			</div>
+			<div class="element" style="overflow:hidden">
+[[{"fid":"612","view_mode":"default","fields":{"format":"default","alignment":"","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"link_text":null,"type":"media","field_deltas":{"4":{"format":"default","alignment":"","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false}},"attributes":{"height":2140,"width":1843,"style":"height: 232px; width: 200px;","class":"media-element file-default","data-delta":"4"}}]]
+			</div>
+			<div class="element" style="overflow:hidden">
+			<p><span style="font-size: 0.923em;">Andrea Campaña García,&nbsp;</span><span style="font-size: 0.923em;">Asistente</span></p>
+				<p>andrea.campana@usach.cl</p>
+				<p><span style="font-size: 0.923em;">Andrea Campaña es Profesora de Estado en Inglés y Master of Arts in English. En Pedagogía de Inglés &nbsp;dicta los cursos de Análisis e Interpretación Literaria, Metodología de la Investigación Literaria y Proyecto de Tesis. Sus trabajos de investigación tratan sobre contribución de la literatura en la enseñanza del inglés y la literacidad medioambiental en la enseñanza del inglés. &nbsp;En la actualidad es coordinadora del area de literatura para Pedagogía en Inglés.</span></p>
+			</td>
+			</div>
+			<div class="element" style="overflow:hidden">
+[[{"fid":"612","view_mode":"default","fields":{"format":"default","alignment":"","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"link_text":null,"type":"media","field_deltas":{"4":{"format":"default","alignment":"","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false}},"attributes":{"height":2140,"width":1843,"style":"height: 232px; width: 200px;","class":"media-element file-default","data-delta":"4"}}]]
+			</div>
+			<div class="element" style="overflow:hidden">
+	
+			</div>
+		</div>
+	<script src="src/index.js">
+	</script>
+</body>
+
+</html>
